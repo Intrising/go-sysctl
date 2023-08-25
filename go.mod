@@ -1,4 +1,4 @@
-module github.com/lorenzosaino/go-sysctl
+module github.com/Intrising/go-sysctl
 
 go 1.18
 
